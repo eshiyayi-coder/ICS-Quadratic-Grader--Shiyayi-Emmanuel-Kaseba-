@@ -69,3 +69,9 @@ It is also published on GitHub for version control and submission.
 ---
 
 ## Repository Structure
+## How to Run
+1. Clone or download the repository:
+```bash
+git clone https://github.com/<Shiyayi-Emmanuel-Kaseba->/ICS-Quadratic-Grader-
+<Shiyayi-Emmanuel Kaseba>.git
+
